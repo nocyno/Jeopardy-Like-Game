@@ -1,0 +1,6 @@
+{
+	"categories": 	2,
+	"levels":	2,
+	"questions":	[["Q1C1", "Q1C2"], ["Q2C1", "Q2C2"]],
+	"answers":	[["A1C1", "A1C2"], ["A2C1", "A2C2"]]
+}

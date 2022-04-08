@@ -1,0 +1,31 @@
+.category_label{
+	font-size: 100px;
+}
+
+.question_button{
+	border-radius: 30px;
+	font-size: 80px;
+}
+
+.team_button{
+	border-radius: 30px;
+	font-size: 50px;
+}
+
+.answer_button{
+	border-radius: 30px;
+	font-size: 1px;
+}
+
+.question_label{
+	font-size: 80px;
+}
+
+.team_score_label{
+
+	font-size: 30px;
+}
+
+.answer_label{
+	font-size: 50px;
+}
